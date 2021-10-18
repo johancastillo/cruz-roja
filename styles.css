@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #bfbfbf;
+}
+
+
+.box-form{
+    width: 60%;
+    background: white;
+    padding: 40px;
+    border-radius: 8px;
+}
